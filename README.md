@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello.  I'm Nguyễn Thái Nguyên (Nguyen Nguyen).
 
-<!--
-**thainguyencoffee/thainguyencoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thainguyencoffee&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=thainguyencoffee&show_icons=true">
+</picture>
 
-Here are some ideas to get you started:
+- The Gradle better than Maven
+- The Cloud Native better than Monolithic (MVC, Three tiers, Hexagonal, etc...)
+- Using services of service provider better than built it yourself
+- Environment parity better than another environment per service
+- Change configuration at runtime is the best choice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sup><sub>Biết tới nó, hiểu nó, học thuộc nó, ứng dụng nó, hiểu hơn về nó.</sub></sup>
