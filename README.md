@@ -11,4 +11,4 @@
 - Environment parity better than another environment per service
 - Change configuration at runtime is the best choice
 
-<sup><sub>Biết tới nó, hiểu nó, học thuộc nó, ứng dụng nó, hiểu hơn về nó.</sub></sup>
+<sub>Biết tới nó, hiểu nó, học thuộc nó, ứng dụng nó, hiểu hơn về nó. - Thai Nguyen stupid</sub>
